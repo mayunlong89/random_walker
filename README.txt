@@ -1,5 +1,8 @@
+
 Random walker algorithm
 =======================
+
+This code need to be further studied
 
 from *Random walks for image segmentation*, Leo Grady, IEEE Trans 
 Pattern Anal Mach Intell. 2006 Nov;28(11):1768-83.
